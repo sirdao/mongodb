@@ -1,8 +1,3 @@
-/* Web Scraper Homework Solution Example
- *    (be sure to watch the video to see
- *     how to operate the site in the broser)
- * -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ */
-
 // Require our dependencies
 var express = require('express');
 var path = require('path');
@@ -63,3 +58,9 @@ var port = process.env.PORT || 3000;
 app.listen(port, function() {
     console.log("lisenting on port:" + port);
 });
+
+
+
+
+
+
